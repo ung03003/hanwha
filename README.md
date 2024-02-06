@@ -18,14 +18,7 @@
 						<td>
 							<!-- html -->
 							<table border="0" cellpadding="0" cellspacing="0" width="100%">
-								<tr><!--
-									<td width="730" height="40"
-										style="color:#222;font-family:'dotum';font-size:12px;margin:0;padding:0;"
-										align="center">이메일이 보이지 않거나 링크 연결이 안되는 경우 <a
-											href="https://github.com/ung03003/hanwha/blob/main/hanwha_eDM.jpg?raw=true"
-											target="_blank">여기</a>를 클릭하세요.</td>
-								</tr>
-								-->
+							
 							</table>
 							<!-- top -->
 								<table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -66,51 +59,8 @@
 																	style="display:block"></td>
 														</tr>-->
 													</table>
-													<!-- bottom --><!--주석--
-													<table border="0" cellpadding="0" cellspacing="0" width="100%">
-														<tr>
-															<td bgcolor="#282a29" style="margin:0;padding:0;">
-																<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-																	<tr>
-																		<td height="30"> </td>
-																	</tr>
-																	<tr>
-																		<td style="color:#aaaaaa;font-family:'dotum';font-size:12px;margin:0;padding:0;" align="center">
-																			본 메시지 수신에 감사드립니다.
-																		</td>
-																	</tr>
-																	<tr>
-																		<td height="14"> </td>
-																	</tr>
-																	<tr>
-																		<td style="color:#aaaaaa;font-family:'dotum';font-size:12px;margin:0;padding:0;" align="center">
-																			Hanwha precision Machinery | <a href="mailto:mzc_grp_mkt@megazone.com" style="color:#fff">www.hanwha-pm.com</a>
-																		</td>
-																	</tr>
-																	<tr>
-																		<td height="14"> </td>
-																	</tr>
-																	<tr>
-																		<td style="color:#aaaaaa;font-family:'dotum';font-size:12px;margin:0;padding:0;" align="center">
-																			더 이상 메일수신을 원하지 않으시면 <span style="color:#fff;text-decoration: underline;cursor: pointer;"><unsubscribed>여기</unsubscribed></span>를 클릭해 구독을 해지하여 주시기 바랍니다.
-																		</td>
-																	</tr>
-																	<tr>
-																		<td height="30"> </td>
-																	</tr>
-																	<tr>
-																		<td style="color:#aaaaaa;font-family:'dotum';font-size:12px;margin:0;padding:0;" align="center">
-																			Copyright 2024 © Hanwha precision Machinery. All Right Reserved.
-																		</td>
-																	</tr>
-																	<tr>
-																		<td height="25"> </td>
-																	</tr>
-																<table>
-																	-->
-															</td>
-														</tr>
-													</table>
+													<!-- bottom -->
+													<ta
 												</td>
 											</tr>
 										</table>
