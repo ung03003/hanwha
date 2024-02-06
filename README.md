@@ -4,7 +4,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>It's DATA DAY</title>
+	<title>2024 SMART SMT & PCB ASSEMBLY</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </head>
 
@@ -18,13 +18,14 @@
 						<td>
 							<!-- html -->
 							<table border="0" cellpadding="0" cellspacing="0" width="100%">
-								<tr>
+								<tr><!--
 									<td width="730" height="40"
 										style="color:#222;font-family:'dotum';font-size:12px;margin:0;padding:0;"
 										align="center">이메일이 보이지 않거나 링크 연결이 안되는 경우 <a
-											href="https://d26xaqy5i0opqs.cloudfront.net/edm-email/images/2023/09/MZC_Databricks_Hadoop%20Migration_202309.html"
+											href="https://github.com/ung03003/hanwha/blob/main/hanwha_eDM.jpg?raw=true"
 											target="_blank">여기</a>를 클릭하세요.</td>
 								</tr>
+								-->
 							</table>
 							<!-- top -->
 								<table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -65,7 +66,7 @@
 																	style="display:block"></td>
 														</tr>-->
 													</table>
-													<!-- bottom -->
+													<!-- bottom --><!--주석--
 													<table border="0" cellpadding="0" cellspacing="0" width="100%">
 														<tr>
 															<td bgcolor="#282a29" style="margin:0;padding:0;">
@@ -106,6 +107,7 @@
 																		<td height="25"> </td>
 																	</tr>
 																<table>
+																	-->
 															</td>
 														</tr>
 													</table>
